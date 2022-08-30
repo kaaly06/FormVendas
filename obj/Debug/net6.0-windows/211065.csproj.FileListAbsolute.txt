@@ -1,0 +1,51 @@
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\bin\Debug\net6.0-windows\211065.exe
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\bin\Debug\net6.0-windows\211065.deps.json
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\bin\Debug\net6.0-windows\211065.runtimeconfig.json
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\bin\Debug\net6.0-windows\211065.dll
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\bin\Debug\net6.0-windows\211065.pdb
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.csproj.AssemblyReference.cache
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\_211065.Form1.resources
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.csproj.GenerateResource.cache
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.AssemblyInfoInputs.cache
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.AssemblyInfo.cs
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.csproj.CoreCompileInputs.cache
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.dll
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\refint\211065.dll
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.pdb
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\211065.genruntimeconfig.cache
+E:\Kaly\2° ano\cursos ds\Desenvolvimento Sist\interface gráfica\211065\obj\Debug\net6.0-windows\ref\211065.dll
+D:\Kaly 2° ds\211065\bin\Debug\net6.0-windows\211065.exe
+D:\Kaly 2° ds\211065\bin\Debug\net6.0-windows\211065.deps.json
+D:\Kaly 2° ds\211065\bin\Debug\net6.0-windows\211065.runtimeconfig.json
+D:\Kaly 2° ds\211065\bin\Debug\net6.0-windows\211065.dll
+D:\Kaly 2° ds\211065\bin\Debug\net6.0-windows\211065.pdb
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.csproj.AssemblyReference.cache
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\_211065.Form1.resources
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.csproj.GenerateResource.cache
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.AssemblyInfoInputs.cache
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.AssemblyInfo.cs
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.csproj.CoreCompileInputs.cache
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.dll
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\refint\211065.dll
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.pdb
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\211065.genruntimeconfig.cache
+D:\Kaly 2° ds\211065\obj\Debug\net6.0-windows\ref\211065.dll
+E:\kalyzita\211065\bin\Debug\net6.0-windows\211065.exe
+E:\kalyzita\211065\bin\Debug\net6.0-windows\211065.deps.json
+E:\kalyzita\211065\bin\Debug\net6.0-windows\211065.runtimeconfig.json
+E:\kalyzita\211065\bin\Debug\net6.0-windows\211065.dll
+E:\kalyzita\211065\bin\Debug\net6.0-windows\211065.pdb
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.csproj.AssemblyReference.cache
+E:\kalyzita\211065\obj\Debug\net6.0-windows\_211065.Form1.resources
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.csproj.GenerateResource.cache
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.GeneratedMSBuildEditorConfig.editorconfig
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.AssemblyInfoInputs.cache
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.AssemblyInfo.cs
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.csproj.CoreCompileInputs.cache
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.dll
+E:\kalyzita\211065\obj\Debug\net6.0-windows\refint\211065.dll
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.pdb
+E:\kalyzita\211065\obj\Debug\net6.0-windows\211065.genruntimeconfig.cache
+E:\kalyzita\211065\obj\Debug\net6.0-windows\ref\211065.dll
